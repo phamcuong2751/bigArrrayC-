@@ -1,0 +1,7 @@
+D:\STUDY\Lập trình Windows\Lý thuyết\Project\PRACTICE\BigArray\BigArray\obj\Debug\BigArray.csprojAssemblyReference.cache
+D:\STUDY\Lập trình Windows\Lý thuyết\Project\PRACTICE\BigArray\BigArray\obj\Debug\BigArray.csproj.CoreCompileInputs.cache
+D:\STUDY\Lập trình Windows\Lý thuyết\Project\PRACTICE\BigArray\BigArray\bin\Debug\BigArray.exe.config
+D:\STUDY\Lập trình Windows\Lý thuyết\Project\PRACTICE\BigArray\BigArray\bin\Debug\BigArray.exe
+D:\STUDY\Lập trình Windows\Lý thuyết\Project\PRACTICE\BigArray\BigArray\bin\Debug\BigArray.pdb
+D:\STUDY\Lập trình Windows\Lý thuyết\Project\PRACTICE\BigArray\BigArray\obj\Debug\BigArray.exe
+D:\STUDY\Lập trình Windows\Lý thuyết\Project\PRACTICE\BigArray\BigArray\obj\Debug\BigArray.pdb
